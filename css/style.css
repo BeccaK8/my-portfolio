@@ -1,14 +1,62 @@
-#home {
-    margin: 25vmin 50vmin;
-    height: 100vmin;
+.navbar-name {
+    color: #B8336A;
+    font-family: 'Syncopate', sans-serif;
+}
+
+.navbar-text {
+    color: #B8336A;
+}
+
+.hero {
+    height: 75vmin;
+    margin-top: 5vmin;
+}
+
+.hero-text {
+    padding-top: 30vmin;
+    padding-right: 34vmin;
+}
+
+.hero-nav {
+    padding-top: 20vmin;
+    padding-bottom: 3vmin;
+    padding-right: 34vmin;
 }
 
 .header-name {
     font-family: 'Syncopate', sans-serif;
     font-size: 40px;
+    color: #B8336A;
 }
 
 .header-role {
     font-family: 'Azeret Mono', monospace;
     font-size: medium;
+}
+
+#about, #skills, #projects, #contact {
+    padding: 10vmin;
+    background-color: #A0D2DB;
+    text-align: center;
+}
+
+.section-title {
+    color: #B8336A;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 24px;
+}
+
+.spacer {
+    height: 2vmin;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact-link {
+    background-color: #726DA8;
+    color: white;
+    border: none;
 }
