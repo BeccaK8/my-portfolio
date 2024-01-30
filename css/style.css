@@ -1,0 +1,14 @@
+#home {
+    margin: 25vmin 50vmin;
+    height: 100vmin;
+}
+
+.header-name {
+    font-family: 'Syncopate', sans-serif;
+    font-size: 40px;
+}
+
+.header-role {
+    font-family: 'Azeret Mono', monospace;
+    font-size: medium;
+}
