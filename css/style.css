@@ -213,6 +213,7 @@ a, a:hover {
         margin: 20px 0 0 0;
             padding: 0;
         justify-content: center;
+        font-family: 'Azeret Mono', monospace;
 
         .tag__item {
             display: inline-block;
@@ -223,6 +224,7 @@ a, a:hover {
             cursor: default;
             user-select: none;
             transition: background-color 0.3s;
+            font-family: 'Azeret Mono', monospace;
 
             &:hover {
                 background: rgba(83, 83, 83, 0.8);
