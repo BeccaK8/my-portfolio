@@ -1,10 +1,8 @@
-.navbar-name {
-    color: #B8336A;
-    font-family: 'Syncopate', sans-serif;
+.purple-text {
+    color: #4A4063;
 }
-
-.navbar-text {
-    color: #B8336A;
+.navbar-name {
+    font-family: 'Syncopate', sans-serif;
 }
 
 .hero {
@@ -26,7 +24,6 @@
 .header-name {
     font-family: 'Syncopate', sans-serif;
     font-size: 40px;
-    color: #B8336A;
 }
 
 .header-role {
@@ -36,12 +33,12 @@
 
 #about, #skills, #projects, #contact {
     padding: 10vmin;
-    background-color: #A0D2DB;
+    background-color: #C8C6D7;
     text-align: center;
 }
 
 .section-title {
-    color: #B8336A;
+    color: #4A4063;
     font-family: 'Syncopate', sans-serif;
     font-size: 24px;
 }
@@ -56,7 +53,7 @@ a {
 }
 
 .contact-link {
-    background-color: #726DA8;
+    background-color: #4A4063;
     color: white;
     border: none;
 }
